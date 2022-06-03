@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Open Calculator]]>
+    </line>
+    <line>
+      <![CDATA[Perform Sum 1+2+3]]>
+    </line>
+    <line>
+      <![CDATA[Sum Result =6]]>
+    </line>
+    <line>
+      <![CDATA[perform subtraction 2-1]]>
+    </line>
+    <line>
+      <![CDATA[Subtraction Result =1]]>
+    </line>
+    <line>
+      <![CDATA[Perform Multiplication 1*2*3 ]]>
+    </line>
+    <line>
+      <![CDATA[Multiplication Result =6]]>
+    </line>
+    <line>
+      <![CDATA[close App]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-05-31T11:34:30 IST" name="Default suite" finished-at="2022-05-31T11:35:04 IST" duration-ms="34130">
+    <groups>
+    </groups>
+    <test started-at="2022-05-31T11:34:30 IST" name="Default test" finished-at="2022-05-31T11:35:04 IST" duration-ms="34130">
+      <class name="test.CalcultorTest.CalculatorTestCase">
+        <test-method signature="Calculator()[pri:0, instance:test.CalcultorTest.CalculatorTestCase@1ab3a8c8]" started-at="2022-05-31T11:34:30 IST" name="Calculator" description="calculator testcase" finished-at="2022-05-31T11:35:04 IST" duration-ms="34038" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Open Calculator]]>
+            </line>
+            <line>
+              <![CDATA[Perform Sum 1+2+3]]>
+            </line>
+            <line>
+              <![CDATA[Sum Result =6]]>
+            </line>
+            <line>
+              <![CDATA[perform subtraction 2-1]]>
+            </line>
+            <line>
+              <![CDATA[Subtraction Result =1]]>
+            </line>
+            <line>
+              <![CDATA[Perform Multiplication 1*2*3 ]]>
+            </line>
+            <line>
+              <![CDATA[Multiplication Result =6]]>
+            </line>
+            <line>
+              <![CDATA[close App]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Calculator -->
+      </class> <!-- test.CalcultorTest.CalculatorTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

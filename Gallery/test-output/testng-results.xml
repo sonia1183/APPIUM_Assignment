@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Open Gallery]]>
+    </line>
+    <line>
+      <![CDATA[Close All popup msg]]>
+    </line>
+    <line>
+      <![CDATA[Scrolling down using touchaction]]>
+    </line>
+    <line>
+      <![CDATA[stop scrolling]]>
+    </line>
+    <line>
+      <![CDATA[using tap select photo with using coordinates]]>
+    </line>
+    <line>
+      <![CDATA[close app]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-05-31T11:38:59 IST" name="Default suite" finished-at="2022-05-31T11:39:33 IST" duration-ms="33824">
+    <groups>
+    </groups>
+    <test started-at="2022-05-31T11:38:59 IST" name="Default test" finished-at="2022-05-31T11:39:33 IST" duration-ms="33824">
+      <class name="test.gallerytestcase.GalleryTestcase">
+        <test-method signature="openGallery()[pri:0, instance:test.gallerytestcase.GalleryTestcase@6e171cd7]" started-at="2022-05-31T11:38:59 IST" name="openGallery" description="gallery testcase" finished-at="2022-05-31T11:39:33 IST" duration-ms="33734" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Open Gallery]]>
+            </line>
+            <line>
+              <![CDATA[Close All popup msg]]>
+            </line>
+            <line>
+              <![CDATA[Scrolling down using touchaction]]>
+            </line>
+            <line>
+              <![CDATA[stop scrolling]]>
+            </line>
+            <line>
+              <![CDATA[using tap select photo with using coordinates]]>
+            </line>
+            <line>
+              <![CDATA[close app]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openGallery -->
+      </class> <!-- test.gallerytestcase.GalleryTestcase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

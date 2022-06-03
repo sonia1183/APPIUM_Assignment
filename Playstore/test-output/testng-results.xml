@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Set capabilities]]>
+    </line>
+    <line>
+      <![CDATA[open Playstore]]>
+    </line>
+    <line>
+      <![CDATA[search Bajaj Health App]]>
+    </line>
+    <line>
+      <![CDATA[Click on app]]>
+    </line>
+    <line>
+      <![CDATA[Click on what's new]]>
+    </line>
+    <line>
+      <![CDATA[Scroll till vserion]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-06-03T10:27:46 IST" name="Default suite" finished-at="2022-06-03T10:28:29 IST" duration-ms="43308">
+    <groups>
+    </groups>
+    <test started-at="2022-06-03T10:27:46 IST" name="Default test" finished-at="2022-06-03T10:28:29 IST" duration-ms="43308">
+      <class name="test.PlaystoreTest.PlayStoreTestCase">
+        <test-method signature="openPlaystore()[pri:0, instance:test.PlaystoreTest.PlayStoreTestCase@333291e3]" started-at="2022-06-03T10:27:46 IST" name="openPlaystore" description="Playstore" finished-at="2022-06-03T10:28:29 IST" duration-ms="43241" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Set capabilities]]>
+            </line>
+            <line>
+              <![CDATA[open Playstore]]>
+            </line>
+            <line>
+              <![CDATA[search Bajaj Health App]]>
+            </line>
+            <line>
+              <![CDATA[Click on app]]>
+            </line>
+            <line>
+              <![CDATA[Click on what's new]]>
+            </line>
+            <line>
+              <![CDATA[Scroll till vserion]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openPlaystore -->
+      </class> <!-- test.PlaystoreTest.PlayStoreTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
